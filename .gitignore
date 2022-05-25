@@ -1,5 +1,2 @@
-node_modules
+node_modules/
 test.md
-stylelint.config.js
-package.lock.json
-package.json
