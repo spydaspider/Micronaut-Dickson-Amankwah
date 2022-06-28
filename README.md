@@ -38,13 +38,6 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
-
-👤 **Dickson Amankwaah**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Dickson Amankwaah**
 
