@@ -41,7 +41,7 @@ Navigate through the web page to find the information you need. Use the links in
 
 
 ### Deployment
-  Project reside in this Repo. You can clone the repo or download the files manually to your local computer.
+  Project reside in this Repo. You can clone the repo or download the files manually to your local machine.
 
 
 
