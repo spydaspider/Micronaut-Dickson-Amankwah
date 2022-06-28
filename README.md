@@ -1,51 +1,58 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project name
-Hello Microverse.
+# Project Name
 
-This project displays the a header text on the page with my favourite color.
+Hello Microverse Project.
+This project is has a header text(Hello Microverse). It tells the viewer of the site about me and the services I can provide.
 
 
 ## Built With
 
-- HTML and CSS
-- none
-- VSCODE, Stylelint for clean code.
+- HTML and CSS.
+## Technologies.
+Visual Studio Code.
+nodejs and npm.
 
 ## Live Demo (if available)
 
+[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
 
-**Locate the index.html file in the project folder and double click it. **
 
 
 To get a local copy up and running follow these simple example steps.
+Locate the project folder in the Repository.
+Click on the code button and dowload a zip file for the project locally.
+Locate the index.html file and double click it to view webpage.
 
 ### Prerequisites
+Node.js, stylelint, browser for displaying it's content.
+install node package manager(npm): npm helps to install stylelint.
 
-### setup
 
-### Install
+### Setup
+Download and install browser.
 
 ### Usage
+Navigate through the web page to find the information you need. Use the links in the pages to move to different sections.
 
-### Run tests
 
 ### Deployment
+  Project reside in this Repo. You can clone the repo or download the files manually to your local computer.
 
 
 
+## Authors
 
 👤 **Dickson Amankwaah**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/spydaspider/Micronaut-Dickson-Amankwah)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/spyda-spider-a64373131/)
 
-## 🤝 Contributing
+
 
 Contributions, issues, and feature requests are welcome!
 
